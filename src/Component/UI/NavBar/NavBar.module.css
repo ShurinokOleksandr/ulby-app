@@ -1,0 +1,21 @@
+.item{
+    height: 50px;
+    width: 100vw;
+    background: #6e52df;
+
+
+}
+
+.item {
+    padding: 10px;
+
+
+}
+a{
+    padding: 0 10px;
+    text-decoration: none;
+    font-size: 23px;
+    font-weight: bold;
+    background: #6e52df;
+
+}

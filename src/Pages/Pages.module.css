@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: #938ad4;
+    color: #08044c;
+}
+.App{
+    width: 800px;
+
+}
+.btns{
+    display: flex;
+    height: 35px;
+}
+.pop{
+    display: flex;
+    justify-content: center;
+}
+.post{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid green;
+    margin-bottom: 15px;
+}
+.post h2{
+    padding-bottom: 5px;
+
+}
+.bot{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+

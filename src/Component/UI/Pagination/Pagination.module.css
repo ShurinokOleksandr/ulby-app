@@ -1,0 +1,19 @@
+.page{
+    padding: 5px 15px;
+    color: #cab70a;
+    background: rgb(9, 86, 189);
+    font-size: 14px;
+    border: 1px solid purple;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.page__current {
+    border: 3px solid red;
+
+}
+.wrapBtn{
+    display: flex;
+
+}
